@@ -27,6 +27,10 @@ $ mongod --dbpath /Users/ser/Desktop/dev/mongodb
 $ npm start
 ```
 
+### Paths
+* /mongo_express - admin panel for mongodb
+* /graphql - check your graphql api
+
 ### Description
 * [npm start] - concurrently run two commands below
 * [npm run build:dev] - webpack --progress
